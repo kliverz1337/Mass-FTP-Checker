@@ -1,6 +1,6 @@
 ### FTP Checker by Kliverz 🚀
 
-Selamat datang di **FTP Checker**, alat sederhana namun powerful untuk memeriksa akses login ke server FTP dan mengumpulkan informasi penting. 
+Tool sederhana namun powerful untuk memeriksa akses login ke server FTP dan mengumpulkan informasi penting. 
 
 **Fitur Utama:**
 - **Cek Login FTP**: Coba login ke server FTP dengan berbagai kredensial dan simpan hasil sukses.
